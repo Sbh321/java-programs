@@ -23,7 +23,6 @@ import java.util.Scanner;
 //     return c;
 //   }
 // }
-/////////(1/2+2)+1
 public class example
 {
 
